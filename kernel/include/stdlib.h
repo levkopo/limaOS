@@ -21,6 +21,7 @@ char* strcpy(char *dest, const char *src);
 char* appendCharToCharArray(char* array, char a);
 int strcmp(const char *p1, const char *p2);
 
+
 //div_t div(int num, int denom); TODO:
 //ldiv_t ldiv(long int num, long int denom); TODO:
 
