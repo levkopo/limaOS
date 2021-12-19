@@ -4,7 +4,7 @@
 #include "stdint.h"
 #include "stdbool.h"
 
-#define VGA_ADDRESS 0xb8000
+#define VGA_ADDRESS 0xB8000
 
 #define min(a, b) (((a) > (b)) ? (b) : (a))
 #define max(a, b) (((a) > (b)) ? (a) : (b))
