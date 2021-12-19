@@ -18,7 +18,7 @@ extern "C" void kmain() {
     println_string("  / / | | '_ ` _ \\ / _` |//  //\\ \\  ");
     println_string(" / /__| | | | | | | (_| / \\_// _\\ \\ ");
     println_string(" \\____/_|_| |_| |_|\\__,_\\___/  \\__/");
-    println_string("");
+    println();
     println_string(" Version 0.1 - Alpha. Based on DmNSOS");
     while (1) {
         print_string("> ");
