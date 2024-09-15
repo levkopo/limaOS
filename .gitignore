@@ -1,8 +1,8 @@
 .idea
 
 kernel/*.o
-bootloader/bootloader0
-bootloader/bootloader1
+core/arch/x86/boot/bootloader0
+core/arch/x86/boot/bootloader1
 iso
 
 dist
